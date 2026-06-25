@@ -7,17 +7,17 @@
   
 <p align="left">
   <!-- Linguagens -->
-      <img src=https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg width="60"/>
-      <img src=https://code.visualstudio.com/assets/images/code-stable.png width="63"/>
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="60"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="60"/>
  <p/>
 
  # 🙋‍♂️ Connect with me 
 <table>
   <tr>
-    <a target="_blank" href="https://keepo.io/applephoria/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+    <a target="_blank" href="https://beacons.ai/applephoria/aboutme"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
     <a href="https://www.linkedin.com/in/marcelflorentino/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/applephoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <!-- <a href="https://discord.gg/applephoria" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-    <a href="mailto:marcelsflorentino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:eumarcelflorentino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </<tr> 
  </table>
